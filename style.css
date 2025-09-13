@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  button {
+    margin: 5px 0;
+    padding: 10px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9em;
+  }
+  
+  .success {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .dark-mode {
+    background-color: #222;
+    color: white;
+  }
+  
